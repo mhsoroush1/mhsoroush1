@@ -1,10 +1,6 @@
 <h1> Hey there 👋, I'm Mohammad H. SOROUSH </h1>
 <h3> A Data Science Student </h3>
 
-<!--
-**mhsoroush1/mhsoroush1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 <!-- </a> <a href="https://www.twitter.com/mhsoroush1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mhsoroush1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
@@ -15,18 +11,33 @@ src="https://img.shields.io/github/followers/mhsoroush1?logo=github&style=for-th
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-h-soroush-b2a93423b/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mhsoroush1@gmail.com)
 [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@mhsoroush1)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/ali.hejazzii)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/mrr_zo)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?logo=instagram&logoColor=white&link=https://instagram.com/m.h.soroush/)](https://www.instagram.com/m.h.soroush)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-purple?logo=telegram&logoColor=white&link=https://t.me/mhsoroush1/)](https://www.t.me/mhsoroush1)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?logo=whatsapp&logoColor=white&link=https://whatsapp.com/0989352239496/)](https://www.whatsapp.com/0989352239496)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mhsoroush1)](https://twitter.com/mhsoroush1)
 [![Github](https://img.shields.io/github/followers/mhsoroush1?label=Follow&style=social)](https://github.com/mhsoroush1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning ... Check it out if interested.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about **Python, R, Algorithmic Trading & Data Science.**
 - 📫 How to reach me: mhsoroush1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3 align="left">Languages and Tools:</h3>
+</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a> <a href="https://www.r-project.org/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="linux" width="40" height="40"/>
+</a> <a href="https://www.mathworks.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="linux" width="40" height="40"/>
+</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a> <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="git" width="40" height="40"/>
+</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a> <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+</a> <a href="https://www.jetbrains.com/pycharm/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="java" width="40" height="40"/>
+</a> <a href="https://www.rstudio.com/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="java" width="40" height="40"/>
+</a> <a href="https://www.minitab.com/en-us/" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minitab/minitab-original.svg" alt="java" width="40" height="40"/>
 
 <div>
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhsoroush1&show_icons=true&locale=en&layout=compact" alt="mhsoroush1" />
