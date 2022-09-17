@@ -17,14 +17,12 @@ src="https://img.shields.io/github/followers/mhsoroush1?logo=github&style=for-th
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mhsoroush1)](https://twitter.com/mhsoroush1)
 [![Github](https://img.shields.io/github/followers/mhsoroush1?label=Follow&style=social)](https://github.com/mhsoroush1)
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ... Check it out if interested.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+<!-- - 🔭 I’m currently working on ...  - 👯 I’m looking to collaborate on ...  - 🤔 I’m looking for help with ... -->
+- 🌱 I’m currently learning **Algorithmic Trading with Python & Machine Learning**. Check it out if interested.
 - 💬 Ask me about **Python, R & Data Science.**
 - 📫 How to reach me: mhsoroush1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **Without Data you're just another person with an opinion**.
 
 <h3 align="left">Languages and Tools:</h3>
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
