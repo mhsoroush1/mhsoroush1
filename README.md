@@ -19,7 +19,7 @@ src="https://img.shields.io/github/followers/mhsoroush1?logo=github&style=for-th
 
 <!-- - 🔭 I’m currently working on ...  - 👯 I’m looking to collaborate on ...  - 🤔 I’m looking for help with ... -->
 - 🌱 I’m currently learning **Algorithmic Trading with Python & Machine Learning**. Check it out if interested.
-- 💬 Ask me about **Python, R & Data Science.**
+- 💬 Ask me about **Python, R & ML.**
 - 📫 How to reach me: mhsoroush1@gmail.com
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **Without Data you're just another person with an opinion**.
