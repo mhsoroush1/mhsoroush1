@@ -1,4 +1,4 @@
-<h1> Hey there 👋, I'm Mohammad H. SOROUSH </h1>
+<h1> Hi there 👋, I'm Mohammad H. SOROUSH </h1>
 <h3> A Data Science Student </h3>
 
 <!-- </a> <a href="https://www.twitter.com/mhsoroush1" target="_blank" rel="noreferrer"><img
